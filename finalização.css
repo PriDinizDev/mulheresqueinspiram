@@ -1,0 +1,12 @@
+body,html {
+    margin: auto;
+    border:solid 10px rgb(195, 252, 252);
+    background-color: rgb(195, 252, 252);
+}
+
+#destaque{
+     text-align: center;
+     color: rgb(138, 255, 216);
+     width: 70%;
+     height: 300px;
+}
